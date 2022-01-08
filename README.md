@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TopfSicko
-- 👀 I’m interested in HTML, CSS , JS , JAVA , PHP , SCSS , C++
-- 🌱 I’m currently learning JAVA , JS
+- 👀 I’m interested in HTML, CSS , JS , JAVA , PHP , 
+- 🌱 I’m currently learning c# , c++
 - 💞️ I’m currently working on my Website Der-Coole-Junge.de
 - 📫 How to reach me mr.boombastic.sicko.mode@gmail.com
 
